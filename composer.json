@@ -2,6 +2,7 @@
   "name": "az-999/php-ton-client",
   "description": "Extraton, PHP TON client",
   "type": "library",
+  "minimum-stability": "stable",
   "license": "Apache-2.0",
   "homepage": "https://extraton.io/",
   "keywords": [
